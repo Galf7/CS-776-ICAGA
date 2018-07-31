@@ -1,0 +1,21 @@
+syntax: glob
+Library
+Temp
+*.pidb
+*.sln
+*.userprefs
+*.csprog
+*.orig
+*.rar
+*.exe
+*.dll
+*.mdb
+*.aspx
+*.config
+*.browser
+*.map
+*.ini
+*.xml
+*.info
+*.txt
+*.meta
